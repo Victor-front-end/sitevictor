@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Protest+Guerrilla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Protest+Guerrilla&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Protest+Guerrilla&display=swap');
 
 * {
@@ -70,9 +71,9 @@ body {
     border-radius: 10px;
     width: 32%;
     background-color: #70577500;
-    font-family: "Kanit", sans-serif;
+    font-family: "Dancing Script";
     font-weight: 500;
-    font-size: 1.2rem;
+    font-size: 1.8rem;
     color: white;
     text-shadow: -2px 2px 0 #1e0035;
     transition-duration: 0.8s;
@@ -120,16 +121,18 @@ body {
 }
 
 .bottom-page {
-    height: 50px;
+    height: 150px;
     margin-left: 140px;
     margin-top: 80px;
     width: 30%;
 }
 
 .bottom-page p {
+    font-size: 2rem;
+    font-family: "Dancing Script";
     padding: 10px;
     color: white;
-    font-size: 1.2rem;
+    font-size: 1.8rem;
     text-shadow: rgb(0, 0, 0) -3px 2px 0px;
     border: 1px solid black;
     border-radius: 10px;
